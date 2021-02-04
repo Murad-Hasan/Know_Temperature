@@ -26,4 +26,4 @@ const updateData= data => {
     document.getElementById('search-city').value = "";
 }
 
-getWeatherData('Dhaka');
+getWeatherData('Gaibandha');
